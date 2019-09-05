@@ -1,0 +1,38 @@
+
+
+@font-face {
+    font-family: 'morion_regular';
+    src: url('/fonts/Morion-Regular.otf');
+    src: url('/fonts/Morion-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'morion_bold';
+    src: url('/fonts/Morion-Bold.otf');
+    src: url('/fonts/Morion-Bold.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'gordita_bold';
+    src: url('/fonts/Gordita-Bold.otf');
+    src: url(/fonts/Gordita-Bold.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'gordita_regular';
+    src: url('/fonts/Gordita.otf');
+    src: url(/fonts/Gordita.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'cormorant';
+    src: url('/fonts/Cormorant-Light.otf');
+    src: url(/fonts/Cormorant-Light.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
